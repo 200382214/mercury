@@ -171,7 +171,7 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
@@ -216,7 +216,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
+            "paddingTop": "5",
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
@@ -231,7 +231,10 @@
         {
           "_styles": {
             ".card-subtitle": {
-              "color": "#bcbcbc"
+              "color": "#000000",
+              "font-size": "24px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             },
             ".iconbox": {
               "background-color": "#f2f2f2",
@@ -336,16 +339,16 @@
             }
           },
           "title1": "HTML",
-          "subtitle1": "",
+          "subtitle1": "90%",
           "caption1": "&nbsp;",
           "title2": "JAVA",
-          "subtitle2": "",
+          "subtitle2": "78%",
           "caption2": "",
           "title3": "CSS",
-          "subtitle3": "",
+          "subtitle3": "80%",
           "caption3": "",
           "title4": "JAVASCRIPT",
-          "subtitle4": "",
+          "subtitle4": "75%",
           "caption4": "",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",

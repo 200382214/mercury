@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -490,7 +492,9 @@ h6,
   text-align: center;
 }
 #features4-7 .card-subtitle {
-  color: #bcbcbc;
+  color: #000000;
+  font-size: 24px;
+  font-family: 'Ubuntu', sans-serif;
 }
 #features4-7 .iconbox {
   background-color: #f2f2f2;
